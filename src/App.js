@@ -11,7 +11,7 @@ import XxxQuestionsPage from "./pages/XxxQuestionsPage/XxxQuestionsPage";
 function App() {
   return (
     <div className={styles.app} id="xxx-app">
-      <Router>
+      <Router basename={"/react-example-app"}>
         <XxxHeader />
         <div>
           <Switch>

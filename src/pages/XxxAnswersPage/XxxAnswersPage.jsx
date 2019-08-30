@@ -27,7 +27,6 @@ class XxxAnswersPage extends Component {
 
   componentWillMount() {
     this.unlisten = this.props.history.listen(() => {
-      console.log("url changed");
       this.getQuestionId();
       this.getQuestion();
     });
@@ -39,7 +38,6 @@ class XxxAnswersPage extends Component {
 
   getQuestionId() {
     this.questionId = this.props.match.params.id;
-    console.log("this.questionId", this.questionId);
   }
 
   getQuestion() {

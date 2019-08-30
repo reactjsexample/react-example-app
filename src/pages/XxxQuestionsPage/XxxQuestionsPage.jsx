@@ -11,7 +11,7 @@ import styles from "./XxxQuestionsPage.module.scss";
 
 class XxxQuestionsPage extends Component {
   // BEST PRACTICE: declare all private properties at the top
-  pageBaseUrl = "/questions";
+  pageBaseUrl = "questions";
   requestedPage = "";
   title = "";
 
@@ -187,7 +187,7 @@ class XxxQuestionsPage extends Component {
             {this.state.questions.map(item => (
               <li key={item.question_id}>
                 <a
-                  href={"/answers/" + item.question_id}
+                  href={"answers/" + item.question_id}
                   className={styles.dummy}
                   key={item.question_id}
                 >

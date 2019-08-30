@@ -44,7 +44,7 @@ class XxxSearchBox extends Component {
     });
     // set search text as parameter in url and navigate to the page that will do the search
     this.props.history.push({
-      pathname: "/questions",
+      pathname: "questions",
       search: "?title=" + encodeURIComponent(this.state.searchText)
     });
   }
