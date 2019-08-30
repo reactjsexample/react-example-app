@@ -12,7 +12,7 @@ Full source code available at [https://github.com/reactjsexample/react-example-a
 
 ## Running Example
 
-Click for running example: [react-example-app]((https://reactjsexample.github.io/react-example-app)
+Click for running example: [react-example-app](#https://reactjsexample.github.io/react-example-app)
 
 ### Screen Shot
 
