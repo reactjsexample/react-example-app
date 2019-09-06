@@ -148,13 +148,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 - ReactJS
 - TypeScript
 - TSLint
-- Prettier
 - Node Sass
 - Material UI
 - React Router
 - query-string
 
-For more information see the package.json file.
+For more information see the [package.json](https://github.com/reactjsexample/react-example-app/blob/master/package.json) file.
 
 ## Learn More About React
 
