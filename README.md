@@ -18,24 +18,13 @@ Click for running example: [react-example-app](https://reactjsexample.github.io/
 
 ![react-example-app](https://github.com/reactjsexample/react-example-app/blob/master/src/assets/images/react-example-app.png)
 
-## Compare Same App With Redux
-
-You can compare this app to the same app with Redux.
-
-This is a good way to see how to convert an existing React app to React Redux.
-
-- [react-redux-example](https://github.com/reactjsexample/react-redux-example)
-
-## Same App In Angular and Polymer
-
-Here is the same app written in Angular and Polymer:
-
-- [angular-9-example-app](https://github.com/angularexample/angular-9-example-app)
-- [polymer-3-example-app](https://github.com/polymerexample/polymer-3-example-app)
-
 ## Table of Contents
 
 - [About The Author](#about-the-author)
+- [Compare Same App With Redux or TypeScript or Angular or Polymer](#compare-same-app-with-redux-or-typescript)
+  - [Same App In React Redux](#same-app-in-react-redux)
+  - [Same App In React TypeScript](#same-app-in-react-redux)
+  - [Same App With Angular or Polymer](#same-app-in-angular-or-polymer)
 - [Project Setup](#project-setup)
   - [Prerequisites](#prerequisites)
   - [How To Install](#how-to-install)
@@ -59,6 +48,31 @@ JC may be available to work remote, and can be contacted at these links:
 
 - LinkedIn: [https://www.linkedin.com/in/jclango](https://www.linkedin.com/in/jclango)
 - Email: [jobs@jclango.com](mailto:jobs@jclango.com)
+
+## Compare Same App With Redux or TypeScript or Angular or Polymer
+
+### Same App In React Redux
+
+You can compare this app to the same app with Redux.
+
+This is a good way to see how to convert an existing React app to React Redux.
+
+- [react-redux-example](https://github.com/reactjsexample/react-redux-example)
+
+### Same App In React TypeScript
+
+You can compare this app to the same app with React TypeScript TSX.
+
+This is a good way to see how to convert an existing React app to React TypeScript.
+
+- [react-typescript-example](https://github.com/reactjsexample/react-typescript-example)
+
+### Same App In Angular Or Polymer
+
+Here is the same app written in Angular and Polymer:
+
+- [angular-9-example-app](https://github.com/angularexample/angular-9-example-app)
+- [polymer-3-example-app](https://github.com/polymerexample/polymer-3-example-app)
 
 ## Project Setup
 
