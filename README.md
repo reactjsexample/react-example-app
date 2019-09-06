@@ -21,7 +21,7 @@ Click for running example: [react-example-app](https://reactjsexample.github.io/
 ## Table of Contents
 
 - [About The Author](#about-the-author)
-- [Compare Same App With Redux or TypeScript or Angular or Polymer](#compare-same-app-with-redux-or-typescript)
+- [Compare Same App With Redux or TypeScript or Angular or Polymer](#compare-same-app-with-redux-or-typescript-or-angular-or-polymer)
   - [Same App In React Redux](#same-app-in-react-redux)
   - [Same App In React TypeScript](#same-app-in-react-typescript)
   - [Same App In Angular or Polymer](#same-app-in-angular-or-polymer)
