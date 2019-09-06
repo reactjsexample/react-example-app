@@ -32,7 +32,6 @@ Click for running example: [react-example-app](https://reactjsexample.github.io/
   - [How To Run Unit Tests](#how-to-run-unit-tests)
   - [How To Build For Production](#how-to-build-for-production)
 - [Software Libraries Used](#software-libraries-used)
-- [Learn More About React](#learn-more-about-react)
 
 ## About The Author
 
@@ -145,20 +144,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Software Libraries Used
 
-- ReactJS
-- TypeScript
-- TSLint
-- Node Sass
-- Material UI
-- React Router
-- query-string
+- react 16.9.0
+- react-router-dom 5.0.1
+- node-sass 4.12.0
+- @material-ui/core 4.4.0
+- query-string 6.8.3
 
 For more information see the [package.json](https://github.com/reactjsexample/react-example-app/blob/master/package.json) file.
-
-## Learn More About React
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
 
 ---
