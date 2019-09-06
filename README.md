@@ -18,6 +18,14 @@ Click for running example: [react-example-app](https://reactjsexample.github.io/
 
 ![react-example-app](https://github.com/reactjsexample/react-example-app/blob/master/src/assets/images/react-example-app.png)
 
+## Compare Same App With Redux
+
+You can compare this app to the same app with Redux.
+
+This is a good way to see how to convert an existing React app to React Redux.
+
+- [react-redux-example](https://github.com/reactjsexample/react-redux-example)
+
 ## Same App In Angular and Polymer
 
 Here is the same app written in Angular and Polymer:
